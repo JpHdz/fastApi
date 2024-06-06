@@ -1,0 +1,4 @@
+practica.py
+venv/
+__pycache__/
+database.sqlite
